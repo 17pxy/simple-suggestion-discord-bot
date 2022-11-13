@@ -1,0 +1,6 @@
+{
+    "token": "YOUR-TOKEN-HERE",
+    "prefix": "s!",
+    "guildID": "GUILD-ID-HERE",
+    "suggestionChannel": "SUGGESTION-CHANNEL"
+}
